@@ -584,29 +584,26 @@
     <path name="deep-buffer-playback speaker">
         <ctl name="QUAT_MI2S_RX Audio Mixer MultiMedia1" value="1" />
 		<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia1" value="1" />
-		<ctl name="SLIM_0_RX SampleRate" value="KHZ_96" />
-		<ctl name="RX0 Digital Volume" value="85" />
+		<ctl name="SLIM_0_RX SampleRate" value="KHZ_48" />
+		<ctl name="RX0 Digital Volume" value="95" />
     </path>
 
     <path name="low-latency-playback speaker">
         <ctl name="QUAT_MI2S_RX Audio Mixer MultiMedia5" value="1" />
 		<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia5" value="1" />
-		<ctl name="SLIM_0_RX SampleRate" value="KHZ_96" />
-		<ctl name="RX0 Digital Volume" value="85" />
+		<ctl name="SLIM_0_RX SampleRate" value="KHZ_48" />
+		<ctl name="RX0 Digital Volume" value="95" />
     </path>
 
     <path name="audio-ull-playback speaker">
         <ctl name="QUAT_MI2S_RX Audio Mixer MultiMedia8" value="1" />
-		<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia8" value="1" />
-		<ctl name="SLIM_0_RX SampleRate" value="KHZ_96" />
-		<ctl name="RX0 Digital Volume" value="85" />
     </path>
 
     <path name="compress-offload-playback speaker">
         <ctl name="QUAT_MI2S_RX Audio Mixer MultiMedia4" value="1" />
 		<ctl name="SLIMBUS_0_RX Audio Mixer MultiMedia4" value="1" />
-		<ctl name="SLIM_0_RX SampleRate" value="KHZ_96" />
-		<ctl name="RX0 Digital Volume" value="85" />
+		<ctl name="SLIM_0_RX SampleRate" value="KHZ_48" />
+		<ctl name="RX0 Digital Volume" value="95" />
     </path>
 
     <path name="compress-offload-playback2 speaker">
@@ -1308,7 +1305,6 @@
 
     <path name="audio-ull-playback headphones">
         <ctl name="SLIMBUS_6_RX Audio Mixer MultiMedia8" value="1" />
-		<ctl name="SLIMBUS_7_RX Audio Mixer MultiMedia8" value="1" />
     </path>
 
     <path name="audio-ull-playback headset">
