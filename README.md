@@ -21,3 +21,5 @@ v4 - Optimized earpiece and mainspeaker gains, Eliminate delay between both the 
 v5 - Add dualspeaker path for audio-ull, new magisk template
 
 v5exp - Add experimental RUI feature
+
+v5.1 - Remove audio-ull
